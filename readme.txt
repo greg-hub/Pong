@@ -1,1 +1,1 @@
-Making the classic pong game in HTML5 and Javascript. Lessons followed where at https://www.udemy.com/code-your-first-game/learn/#/
+Making the classic pong game in HTML5 and Javascript. No styles in place
